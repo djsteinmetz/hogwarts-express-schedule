@@ -1,0 +1,25 @@
+#trainSchedule {
+    margin-bottom: 30px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+h1 {
+    text-align: center;
+    color: #f1f1f1;
+    padding: 50px;
+}
+
+p {
+    min-height: 24px;
+}
+
+#jumbotronImage {
+    background: linear-gradient(to bottom, transparent, rgb(0, 0, 0, 0.5)), url("../images/L-hk3BAcTQS95G9JFKDlWyQneh6ebnUmDlUXTCP1dDY.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    height: 100%;
+}
